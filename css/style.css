@@ -1,0 +1,192 @@
+*{
+    padding: 0px;
+    justify-self: 0px;
+}
+body{
+    font-family: sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: sans-serif;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+.container{
+    width: 1140px;
+    margin: 0px 110px;
+}
+.row{
+    width: 100%;
+    float: left;
+}
+.col6{
+    width: 50%;
+    float: left;
+}
+.col6 img{
+    width: 27%;
+}
+.headder{
+    float: left;
+    border-bottom: 2px solid rgb(174, 167, 167);
+    padding: 7px 0px;
+}
+.headder .menu{
+    display: block;
+    width: 100%;
+    text-align: right;
+}
+.headder .menu li{
+    list-style: none;
+    display: inline-block;
+}
+.headder .menu li a{
+    display: block;
+    margin: 0px 0px 0px 37px;
+    font-size: 15px;
+    color: #0f2656;
+    font-weight: 400;
+}
+.headder .menu li a:hover{
+    cursor: pointer;
+   border-bottom: 2px solid red;
+   color: rgb(30, 0, 255);
+    
+}
+.banner{
+   width: 100%;
+    float: left;
+   padding: 10px 0px;
+    text-align: center;
+    position: relative;
+}
+.col12{
+    width: 100%;
+    float:right;
+}
+.banner h1{
+    font-size: 50px;
+    line-height: 60px;
+}
+.banner h1 span{
+    color: rgb(75, 125, 234);
+}
+.banner p{
+    position: relative;
+    font-size: 16px;
+    bottom: 40px;
+}
+.banner img{
+    width: 68%;
+    position: relative;
+    top: -40px;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.form{
+    width: 100%;
+    float: left;
+    text-align: right;
+}
+.form h1{
+    
+}
+
+.login{
+    width: 100%;
+    float: left;
+}
+.form{
+    width: 100%;
+    float: left;
+    text-align: right;
+}
+.form h1{
+    font-weight: 400;
+   font-size: 47px;
+   color: rgb(234, 56, 56);
+    
+}
+.form p{
+    width: 100%;
+    font-size: 17px;
+}
+
+.formbox{
+ 
+    float: left;
+    text-align: left;
+
+}
+.formbox h1{
+    font-size: 47px;
+    line-height: 55px;
+    margin: 15px 0px 0px 27px;
+}
+.focus{
+ 
+}
+
+.col3{
+    width: 100%;
+    float: left;
+    background-color: rgb(217, 168, 175);
+    width: 300px;
+    height:  300px;
+    margin: 50px 0px 0px 110px;
+    display: flex;
+}
+.formbox img{
+    width: 80%;
+    margin: 18px 0px 0px 30px;
+}
+.formbox h3{
+    margin: 18px 0px 0px 30px;
+}
+.formbox p{
+    margin: 18px 0px 0px 35px;
+}
+.col4{
+    width: 100%;
+    float: left;
+    background-color: rgb(167, 226, 206);
+    width: 300px;
+    height:  300px;
+    margin: 50px auto;
+    display: flex;
+    margin: 50px 0px 0px 110px;
+}
+.col4 img{
+    width: 60%;
+}
+.formbox h3{
+    margin: 18px 0px 0px 30px;
+}
+.formbox p{
+    margin: 18px 0px 0px 35px;
+}
+.col5{
+    width: 100%;
+    float: left;
+    background-color: rgb(217, 216, 176);
+    width: 300px;
+    height:  300px;
+    margin: 50px auto;
+    display: flex;
+    margin: 50px 0px 0px 100px;
+}
+.col5 img{
+    width: 60%;
+}
+
